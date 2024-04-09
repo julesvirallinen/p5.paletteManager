@@ -13,7 +13,7 @@ function setup() {
 }
 
 function draw() {
-  	P.setPalette(C.palette)
+  	P.setPalette("purple")
 
 
     for (var i = 0; i < 10; i++) {
